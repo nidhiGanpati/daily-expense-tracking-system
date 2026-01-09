@@ -1,0 +1,59 @@
+# Database Configuration
+config/database.php
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+error_log
+logs/
+
+# Temporary files
+tmp/
+temp/
+cache/
+
+# Backup files
+*.bak
+*.backup
+*.sql.backup
+
+# Uploaded files
+uploads/
+images/uploads/
+
+# Node modules
+node_modules/
+package-lock.json
+
+# Composer
+vendor/
+composer.lock
+
+# Build files
+dist/
+build/
+
+# Test files
+coverage/
+phpunit.xml
+
+# Security files
+*.pem
+*.key
+*.cert
